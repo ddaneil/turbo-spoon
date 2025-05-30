@@ -1,6 +1,6 @@
 ### Graph Calculator
 
-A simple but useful design made with numpy, matplotlib, and [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap).  
+A simple but useful design made with numpy, matplotlib, and [ttkbootstrap](https://github.com/ddaneil/turbo-spoon).  
 Used to visualize 2 dimensional functions or 3 dimensional functions
 
 ---
